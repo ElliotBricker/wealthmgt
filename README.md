@@ -1,1 +1,3 @@
 # wealthmgt
+# [Elliot]:  Alex, please replace this README.md file with the notes that you mentioned you'll want to include here.   Please be as explicit and detailed as possible...  
+# Please also specify the external packages that the project requires ...The most common command is pip freeze > requirements.txt, which records an environment's current package list into requirements.txt
